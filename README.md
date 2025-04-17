@@ -1,4 +1,7 @@
 # MacroProject4
+**Part 1**
+
+The Dynare implementation for a Real Business Cycle (RBC) DSGE model featuring monopolistic competition, capital accumulation, and productivity shocks. The model simulates the impact of a temporary anticipated technology shock (Z=0.1) occurring in periods 1–5 over a 100-period horizon. It uses a foresight solver in Dynare to trace impulse response functions (IRFs) for key macroeconomic variables, including consumption, output, capital, and labor. The model includes standard equilibrium conditions such as the Euler equation, labor-leisure tradeoff, capital accumulation, and firm pricing under monopolistic competition.
 
 **Part 2**
 
